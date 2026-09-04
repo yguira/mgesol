@@ -1,0 +1,54 @@
+MGESOL LOGO PACKAGE — SIZE & USAGE GUIDE
+
+MASTER
+- MGESOL_Logo_Master.svg — preferred source for future resizing, print, and design work.
+- 2000 px PNG versions — high-resolution raster exports.
+
+WEBSITE
+- Header 300 px wide: 300 x 218 px
+- Header 500 px wide: 500 x 364 px
+- Header 1000 px wide: 1000 x 727 px
+- favicon.ico: includes 16, 32, 48, 64, 128, and 256 px icon sizes.
+- PNG favicons: 16x16, 32x32, 48x48.
+- Apple touch icon: 180x180.
+- Android/PWA icons: 192x192 and 512x512.
+- Link preview / Open Graph image: 1200x630.
+
+LINKEDIN
+- Company Page logo (RECOMMENDED): 400x400 px.
+- Minimum-size reference: 268x268 px.
+- High-resolution working copy: 800x800 px.
+- Company Page cover: 1512x256 px.
+- The LinkedIn avatar is a square-optimized MGESOL lockup: the wordmark keeps its original proportions while the blue and brown fields are extended vertically to fill the square.
+- There is no added white canvas around the outside of the logo frame. The outer gray frame runs essentially edge-to-edge, preventing the logo from looking undersized in LinkedIn's square logo slot.
+
+FACEBOOK
+- Profile image: 320x320 px (Meta states profile pictures should be at least 320x320 for best quality).
+- High-resolution profile versions: 640x640 and 1024x1024.
+- CircleSafe versions keep the complete rectangular logo inside circular profile crops.
+- SquareMax 640x640 fills more of square-only placements.
+
+INSTAGRAM
+- Profile image: 320x320 px.
+- High-resolution profile image: 1080x1080 px.
+- CircleSafe layout is used because the visible profile image is circular.
+
+X
+- Profile image: 400x400 px.
+- Header image: 1500x500 px.
+
+YOUTUBE
+- Profile upload: 800x800 px. YouTube displays the profile image at small sizes, so the source is intentionally high resolution.
+- Channel banner: 2560x1440 px. The logo is kept within YouTube's central 1235x338 px safe area.
+
+EMAIL & DOCUMENTS
+- 240 px wide: compact email signature use.
+- 300 px wide: standard email / document header use.
+- 600 px wide: high-resolution document use.
+
+PRINT
+- SVG: preferred for professional printing because it scales without quality loss.
+- 3000 px PNG: high-resolution raster fallback.
+
+PROFILE IMAGE NOTE
+Platforms that display profile images as circles use the CircleSafe layout. LinkedIn uses a tighter square layout so MGESOL fills the available company-logo frame and avoids the small-logo issue.
